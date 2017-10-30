@@ -5,11 +5,11 @@ class App < Sinatra::Base
     puts "hello"
   end
 
-  get '/name' do
+  get '/hometown' do
     puts "hello"
   end
 
-  get '/name' do
+  get '/favorite-song' do
     puts "hello"
   end
 end
